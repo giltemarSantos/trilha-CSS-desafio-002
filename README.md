@@ -2,8 +2,4 @@
 
 Segundo desafio da Trilha de CSS da DIO! 
 Nela, foi construida um clone do YouTube, colocando em prática os conhecimentos de Display:Flexbox,
-que aprendemos ao longo da trilha de css.
-
-
-# trilha-CSS-desafio-002
-# trilha-CSS-desafio-002
+que foi adquirido ao longo da trilha de css.
