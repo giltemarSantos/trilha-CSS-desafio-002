@@ -5,3 +5,4 @@ Nela, foi construida um clone do YouTube, colocando em prática os conhecimentos
 que aprendemos ao longo da trilha de css.
 
 
+# trilha-CSS-desafio-002
